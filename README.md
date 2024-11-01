@@ -67,6 +67,3 @@ This repo gives an introduction to setting up streaming analytics using open sou
  - From superset add druid like database sqlalchemy uri: ```druid://broker:8082/druid/v2/sql/```. more detail at [Superset-Database-Connect](https://superset.apache.org/docs/databases/db-connection-ui)
  - Create Chart and dashboard on superset from ```demo``` table.
  - Enjoy! :fire: :fire: :fire:
-
-## Contact Us
-- Email-1: duynnguyenngoc@hotmail.com - Duy Nguyen :heart: :heart: :heart: 
